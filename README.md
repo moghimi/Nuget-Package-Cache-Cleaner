@@ -56,3 +56,7 @@ Versions can contain one to four numeric components, optional NuGet/SemVer prere
 ## License
 
 This project is available under the [MIT License](LICENSE).
+
+## Contributing
+
+Public contributions are welcome. Every change must begin with a detailed issue and must be submitted through a pull request linked to that issue. Direct changes to `main` are not part of the accepted contribution process. See [CONTRIBUTING.md](CONTRIBUTING.md) for the required workflow.
