@@ -1,0 +1,16 @@
+# PowerShell and test artifacts
+TestResults/
+*.trx
+*.coverage
+
+# Editors and operating systems
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
+
+# Local package-cache fixtures
+packages/
+artifacts/
